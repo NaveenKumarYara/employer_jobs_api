@@ -1,0 +1,2 @@
+C:\Users\Esolvit\source\repos\employer_jobs_api\bin\Debug\employer_jobs_api.dll
+C:\Users\Esolvit\source\repos\employer_jobs_api\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  employer_jobs_api:
+    image: ${DOCKER_REGISTRY-}employerjobsapi
+    build:
+      context: .
+      dockerfile: Dockerfile

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8JtZ9t0pSpAUrs02GWxt6koowl1TL/DbSlL76aIMlOc=",
+  "Source": "employer_jobs_api",
+  "BasePath": "_content/employer_jobs_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
